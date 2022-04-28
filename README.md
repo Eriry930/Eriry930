@@ -2,6 +2,8 @@
 
 I'm currently learning Javascriapt, React, Phyton
 
+![Eriry930's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eriry930)
+
 <!--
 **Eriry930/Eriry930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
